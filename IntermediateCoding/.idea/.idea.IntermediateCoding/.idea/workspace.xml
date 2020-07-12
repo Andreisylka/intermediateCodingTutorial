@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a3c117a-5237-4945-87b9-8956799d1d4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial07/Prefab/Player.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial07/Scripts/Test2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial07/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial07/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorial07/Prefab/Enemy.prefab" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Tutorial07/Scripts/Test2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial07/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorial07/Scripts/Player.cs" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1ebTMxtnqo5Nh9pwHz0HxWjQLXi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
@@ -21,5 +49,31 @@
       <option name="pid" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a3c117a-5237-4945-87b9-8956799d1d4a" name="Default Changelist" comment="" />
+      <created>1594589249085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594589249085</updated>
+      <workItem from="1594589255042" duration="4400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="691" y="248" key="RiderGenerateDialog" timestamp="1594594488637">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="691" y="248" key="RiderGenerateDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594594488637" />
+    <state x="623" y="227" key="search.everywhere.popup" timestamp="1594591982784">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594591982784" />
   </component>
 </project>
