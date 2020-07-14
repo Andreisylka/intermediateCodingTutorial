@@ -5,12 +5,15 @@ using UnityEngine;
 namespace tutorial07 {
     public class Enemy : MonoBehaviour {
         //private float speed = Player.speed;
-
+        public GameObject player;
     
+    
+
         // Start is called before the first frame update
         void Start()
         {
-        
+            
+        print($"enemy pos:{player.transform.position}");
         }
 
         // Update is called once per frame
