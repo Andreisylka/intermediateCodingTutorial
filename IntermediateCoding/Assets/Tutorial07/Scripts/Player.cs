@@ -6,7 +6,7 @@ using UnityEngine;
 namespace tutorial07 {
     public class Player : MonoBehaviour {
         
-        private static float speed;
+        public  float speed;
 
         // Start is called before the first frame update
         void Start() {
