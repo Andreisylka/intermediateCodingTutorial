@@ -1,14 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Ansy" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a3c117a-5237-4945-87b9-8956799d1d4a" name="Default Changelist" comment="" />
+    <list default="true" id="4a3c117a-5237-4945-87b9-8956799d1d4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial09/tutorial09.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial09/tutorial09.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/SceneController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -19,19 +56,23 @@
         <option value="$PROJECT_DIR$/Assets/Tutorial07/Scripts/SceneController.cs" />
         <option value="$PROJECT_DIR$/Assets/Tutorial07/Scripts/Editor/EnemyEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Tutorial07/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/SceneController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1ebTMxtnqo5Nh9pwHz0HxWjQLXi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -64,11 +105,26 @@
       <workItem from="1594846901375" duration="779000" />
       <workItem from="1594850019538" duration="9305000" />
       <workItem from="1595010201836" duration="1937000" />
+      <workItem from="1595086003380" duration="7522000" />
     </task>
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="691" y="248" key="RiderGenerateDialog" timestamp="1594594488637">
       <screen x="0" y="0" width="1920" height="1050" />
