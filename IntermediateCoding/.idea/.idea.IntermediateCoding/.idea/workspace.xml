@@ -26,12 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a3c117a-5237-4945-87b9-8956799d1d4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial09/tutorial09.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial09/tutorial09.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/SceneController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -58,6 +55,7 @@
         <option value="$PROJECT_DIR$/Assets/Tutorial07/Scripts/Enemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/SceneController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/Player.cs" />
       </list>
     </option>
   </component>
@@ -121,6 +119,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
