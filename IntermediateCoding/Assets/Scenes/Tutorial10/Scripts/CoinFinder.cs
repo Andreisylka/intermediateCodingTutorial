@@ -8,20 +8,21 @@ namespace Scenes.Tutorial10.Scripts
         public Input playerSpeed;
         public int  border = 4;
         Rigidbody phisics;
-        public GameObject plane;
+        public MeshRenderer plane;
+        private Bounds _targetBound;
         
         private void Start()
         {
             phisics = GetComponent<Rigidbody>();
-            
-
+           _targetBound =  GetBounds(plane);
+           Debug.Log(_targetBound.extents);
         }
 
        
 
         private void Update()
         {
-            Bounds();
+           
             playerMovement();
         }
 
@@ -32,29 +33,14 @@ namespace Scenes.Tutorial10.Scripts
             Vector3 velocity = direction * 7f;
             Vector3 moveAmount = velocity * Time.deltaTime;
             transform.Translate(moveAmount);
+            var clampedPosX = Mathf.Clamp(transform.position.x, -_targetBound.extents.x, _targetBound.extents.x);
+            var clampedPosZ = Mathf.Clamp(transform.position.z, -_targetBound.extents.z, _targetBound.extents.z);
+            var clapedPos = new  Vector3( clampedPosX , transform.position.y , clampedPosZ);
+            transform.position = clapedPos;
         }
 
-        void Bounds()
-        {
-            if ((int)transform.position.x > border)
-            {
-                transform.position =new Vector3(border , transform.position.y , transform.position.z); ;
-            }
-            else if ((int)transform.position.x < -border)
-            {
-                transform.position = new Vector3(-border , transform.position.y , transform.position.z);;
-
-            }
-            else if ((int)transform.position.z > border)
-            {
-                transform.position = new Vector3(transform.position.x, transform.position.y , border);;
-
-            }
-            else if ((int)transform.position.z < -border)
-            {
-                transform.position = new Vector3(transform.position.x, transform.position.y , -border);;
-
-            }
+        Bounds  GetBounds(MeshRenderer target) {
+            return target.bounds;
         }
     }
 }

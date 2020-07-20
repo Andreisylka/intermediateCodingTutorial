@@ -38,11 +38,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/CoinFinder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/SceneController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -56,6 +57,7 @@
         <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/SceneController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/CoinFinder.cs" />
       </list>
     </option>
   </component>
@@ -104,6 +106,7 @@
       <workItem from="1594850019538" duration="9305000" />
       <workItem from="1595010201836" duration="1937000" />
       <workItem from="1595086003380" duration="7522000" />
+      <workItem from="1595282190666" duration="1667000" />
     </task>
     <servers />
   </component>
@@ -114,12 +117,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
