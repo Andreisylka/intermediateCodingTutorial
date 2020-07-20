@@ -37,7 +37,6 @@ public class Player : MonoBehaviour
         }
 
     }
-    destr
-    
-        
+
+
 }
