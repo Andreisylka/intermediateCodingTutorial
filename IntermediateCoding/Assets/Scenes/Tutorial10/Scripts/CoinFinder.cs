@@ -1,4 +1,5 @@
 ﻿using System;
+using UnityEditor;
 using UnityEngine;
 
 namespace Scenes.Tutorial10.Scripts
@@ -15,7 +16,7 @@ namespace Scenes.Tutorial10.Scripts
         {
             phisics = GetComponent<Rigidbody>();
            _targetBound =  GetBounds(plane);
-           Debug.Log(_targetBound.extents);
+           //Debug.Log(_targetBound.extents);
         }
 
        
@@ -41,6 +42,21 @@ namespace Scenes.Tutorial10.Scripts
 
         Bounds  GetBounds(MeshRenderer target) {
             return target.bounds;
+        }
+
+        private void OnTriggerEnter(Collider other)
+        {
+            if (other.tag == "Coin")
+            {
+                Destroy(other.gameObject);
+                print("You gather a coin!");
+            }
+            else
+            {
+                Destroy(this.gameObject);
+                EditorApplication.isPlaying = false;
+                
+            }
         }
     }
 }
