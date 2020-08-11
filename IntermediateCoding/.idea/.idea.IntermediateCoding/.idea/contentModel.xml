@@ -36,6 +36,13 @@
               <e p="DickensScript.cs" t="Include" />
             </e>
           </e>
+          <e p="Tutorial12" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="GameUi.cs" t="Include" />
+              <e p="PlayerHealth.cs" t="Include" />
+              <e p="SceneController.cs" t="Include" />
+            </e>
+          </e>
         </e>
       </e>
       <e p="IntermediateCoding.sln" t="IncludeFlat" />

@@ -27,6 +27,7 @@ public class DickensScript : MonoBehaviour
             {
                 var child = transform.GetChild(i);
                 child.name = dickPrefab.name + "_"+ i;
+                //print(child.tag);
             }
             print("one more Dick in da base");
         }
