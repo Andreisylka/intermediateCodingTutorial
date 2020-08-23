@@ -1,7 +1,6 @@
-﻿using Tutorial07;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace Tutorial07.Scripts {
+namespace Scenes.Tutorial07.Scripts {
     public class SceneController : MonoBehaviour {
         [SerializeField] private Player playerPrefab;
         [SerializeField] private Enemy enemyPrefab;
@@ -26,6 +25,8 @@ namespace Tutorial07.Scripts {
             }
        
            player.Initialise(enemies);
+           
+           
             
         }
 

@@ -1,25 +1,26 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEditor;
+﻿using UnityEditor;
 using UnityEngine;
 
-public class GameUi : MonoBehaviour
+namespace Scenes.Tutorial12.Scripts
 {
-    private PlayerHealth player;
-    private int _playerHealth;
-    // Start is called before the first frame update
-    void Start()
+    public class GameUi : MonoBehaviour
     {
-        // player = GameObject.FindGameObjectWithTag("Player");
-        // Debug.Log(_playerHealth);
-        player = FindObjectOfType<PlayerHealth>();
-        player.OnPlayerDeath += GameOver;
+        private PlayerHealth player;
+    
+        // private int _playerHealth;
+        // Start is called before the first frame update
+        void Start()
+        {
+            // player = GameObject.FindGameObjectWithTag("Player");
+            // Debug.Log(_playerHealth);
+            player = FindObjectOfType<PlayerHealth>();
+            player.OnPlayerDeath += GameOver;
 
-    }
+        }
 
-    // Update is called once per frame
-    void Update()
-    {
+        // Update is called once per frame
+        void Update()
+        {
 
         
        
@@ -27,12 +28,13 @@ public class GameUi : MonoBehaviour
         
 
            
-    }
+        }
 
-    public void GameOver()
-    {
-        print("Game over");
-        EditorApplication.isPlaying = false;
+        public void GameOver()
+        {
+            print("Game over");
+            EditorApplication.isPlaying = false;
 
+        }
     }
 }

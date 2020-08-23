@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace Tutorial07 {
+namespace Scenes.Tutorial07.Scripts {
     public class Player : MonoBehaviour {
         
         private Enemy[] _enemies;

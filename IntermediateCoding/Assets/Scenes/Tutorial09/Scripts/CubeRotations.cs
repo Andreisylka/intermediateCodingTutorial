@@ -29,7 +29,6 @@ public class CubeRotations : MonoBehaviour
             rotationSpeed +=2;
         }
        
-
     }
 
     void initialise()

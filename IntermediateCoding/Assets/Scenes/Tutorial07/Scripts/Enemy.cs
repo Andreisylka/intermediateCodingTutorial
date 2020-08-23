@@ -1,8 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace Tutorial07 {
+namespace Scenes.Tutorial07.Scripts {
     public class Enemy : MonoBehaviour {
         //HideInInspector
         public float enemySpeed;

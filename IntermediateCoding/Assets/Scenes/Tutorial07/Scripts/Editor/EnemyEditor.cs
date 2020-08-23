@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
-using Tutorial07;
-namespace Tutorial07.Editor {
+
+namespace Scenes.Tutorial07.Scripts.Editor {
     [CustomEditor(typeof(Enemy))]
     public class EnemyEditor : UnityEditor.Editor {
         public override void OnInspectorGUI() {
