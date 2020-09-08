@@ -51,7 +51,7 @@ namespace Scenes.Tutorial13.Scripts
         {
             float HalfPlayerWidth = transform.localScale.x;
             float _screenBounds =  Camera.main.aspect * Camera.main.orthographicSize + HalfPlayerWidth;
-            print($"resolution is {_screenBounds}");
+            //print($"resolution is {_screenBounds}");
 
             return _screenBounds;
         }
