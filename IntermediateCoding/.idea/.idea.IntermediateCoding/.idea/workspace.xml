@@ -26,17 +26,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a3c117a-5237-4945-87b9-8956799d1d4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IntermediateCoding/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Editor/EnemyEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Editor/EnemyEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Editor/PlayerEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Editor/PlayerEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Enemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Player.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/SceneController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/SceneController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial12/Scripts/GameUi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial12/Scripts/GameUi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial12/Scripts/PlayerHealth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial12/Scripts/PlayerHealth.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial12/Scripts/SceneController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial12/Scripts/SceneController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +46,21 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/CoinFinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial13/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Editor/EnemyEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Editor/PlayerEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial13/Scripts/FallingBlock.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial12/Scripts/PlayerHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial13/Scripts/FallingBlockManagerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial11/Scripts/DickensScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/Coin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial12/Scripts/SceneController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial12/Scripts/GameUi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial13/Scripts/Dificullty.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/SceneController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -71,14 +73,19 @@
         <option value="$PROJECT_DIR$/Assets/Tutorial07/Scripts/Editor/EnemyEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Tutorial07/Scripts/Enemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/Player.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/CoinFinder.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial11/Scripts/DickensScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial09/Scripts/CubeRotations.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/Editor/PlayerEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial12/Scripts/SceneController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/SceneController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial12/Scripts/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial11/Scripts/DickensScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial12/Scripts/GameUi.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/Coin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial10/Scripts/CoinFinder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial07/Scripts/SceneController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial13/Scripts/FallingBlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial13/Scripts/FallingBlockManagerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial13/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Tutorial13/Scripts/Dificullty.cs" />
       </list>
     </option>
   </component>
@@ -134,6 +141,15 @@
       <workItem from="1595548039660" duration="10973000" />
       <workItem from="1595985759605" duration="1646000" />
       <workItem from="1597018265953" duration="5587000" />
+      <workItem from="1598838419985" duration="4276000" />
+      <workItem from="1599008868487" duration="1135000" />
+      <workItem from="1599168128563" duration="6198000" />
+      <workItem from="1599198902393" duration="5405000" />
+      <workItem from="1599207357888" duration="20935000" />
+      <workItem from="1599347928379" duration="8796000" />
+      <workItem from="1599430799744" duration="2764000" />
+      <workItem from="1599433626631" duration="816000" />
+      <workItem from="1599513031833" duration="6788000" />
     </task>
     <servers />
   </component>
@@ -159,9 +175,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="691" y="248" key="RiderGenerateDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594594488637" />
-    <state x="623" y="227" key="search.everywhere.popup" timestamp="1594591982784">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1599228692411">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1599228692411" />
+    <state x="498" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1599517894380">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1599517894380" />
     <state x="623" y="227" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594591982784" />
   </component>
 </project>

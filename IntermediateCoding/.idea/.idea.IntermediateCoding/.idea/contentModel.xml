@@ -43,6 +43,14 @@
               <e p="SceneController.cs" t="Include" />
             </e>
           </e>
+          <e p="Tutorial13" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Dificullty.cs" t="Include" />
+              <e p="FallingBlock.cs" t="Include" />
+              <e p="FallingBlockManagerController.cs" t="Include" />
+              <e p="Playercontroller.cs" t="Include" />
+            </e>
+          </e>
         </e>
       </e>
       <e p="IntermediateCoding.sln" t="IncludeFlat" />

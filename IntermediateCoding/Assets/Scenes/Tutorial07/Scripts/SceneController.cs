@@ -23,8 +23,8 @@ namespace Scenes.Tutorial07.Scripts {
                 enemies[i].enemySpeed = Random.Range(2, 4);
                
             }
-       
-           player.Initialise(enemies);
+
+            player.Initialise(enemies);
            
            
             
