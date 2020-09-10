@@ -402,7 +402,7 @@ MonoBehaviour:
     type: 3}
   speed: 5
   fBRotationValueFactor: 5
-  fBScaleValueFactor: 1
+  fBScaleValueFactor: 2
   SecondsBetweenSpawnMinMax: {x: 0.1, y: 1}
 --- !u!4 &739137382
 Transform:

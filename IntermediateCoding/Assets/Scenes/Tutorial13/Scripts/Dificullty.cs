@@ -9,7 +9,7 @@ namespace Scenes.Tutorial13.Scripts
          public static float GetDificultyPercnt()
          {
               
-             return Mathf.Clamp01(Time.time / secondsToMaxDifficulty);
+             return Mathf.Clamp01(Time.timeSinceLevelLoad / secondsToMaxDifficulty);
          }
         
     }

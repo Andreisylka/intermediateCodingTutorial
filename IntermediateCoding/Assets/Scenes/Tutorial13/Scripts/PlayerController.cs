@@ -8,7 +8,7 @@ namespace Scenes.Tutorial13.Scripts
     {
         public float speed = 7;
         private  float ScreenBounds;
-        
+        public event System.Action OnPlayerDeatch ;
         
         // Start is called before the first frame update
         void Start()
@@ -64,8 +64,11 @@ namespace Scenes.Tutorial13.Scripts
         {
             if (other.tag == "FallingBlock")
             {
-                Destroy(gameObject);
-                EditorApplication.ExitPlaymode();
+                if (OnPlayerDeatch !=null) {
+                    OnPlayerDeatch();
+                }
+               Destroy(gameObject);
+                //EditorApplication.ExitPlaymode();
             }
            
         }

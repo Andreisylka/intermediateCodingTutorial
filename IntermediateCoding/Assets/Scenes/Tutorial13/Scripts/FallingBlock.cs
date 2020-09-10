@@ -22,7 +22,10 @@ public class FallingBlock : MonoBehaviour
     void Start()
     {
         var player = FindObjectOfType<PlayerController>();
-        screenBounds = player.ScreenboundsVert(transform.localScale.y);
+        if (player!=null) {
+            screenBounds = player.ScreenboundsVert(transform.localScale.y);
+        }
+        
         speed = Mathf.Lerp(speedMinMax.x, speedMinMax.y, Dificullty.GetDificultyPercnt());
         //print($" every time on start : {speed}");
 
