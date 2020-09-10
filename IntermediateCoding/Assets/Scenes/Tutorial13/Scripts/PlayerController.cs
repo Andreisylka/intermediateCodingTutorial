@@ -8,7 +8,7 @@ namespace Scenes.Tutorial13.Scripts
     {
         public float speed = 7;
         private  float ScreenBounds;
-
+        
         
         // Start is called before the first frame update
         void Start()

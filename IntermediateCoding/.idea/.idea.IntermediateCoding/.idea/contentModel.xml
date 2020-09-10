@@ -48,6 +48,7 @@
               <e p="Dificullty.cs" t="Include" />
               <e p="FallingBlock.cs" t="Include" />
               <e p="FallingBlockManagerController.cs" t="Include" />
+              <e p="GameOver.cs" t="Include" />
               <e p="Playercontroller.cs" t="Include" />
             </e>
           </e>
