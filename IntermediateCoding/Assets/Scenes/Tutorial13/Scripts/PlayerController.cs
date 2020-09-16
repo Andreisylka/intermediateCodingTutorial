@@ -6,6 +6,7 @@ namespace Scenes.Tutorial13.Scripts
 {
     public class PlayerController : MonoBehaviour
     {
+        public GameObject manager;
         public float speed = 7;
         private  float ScreenBounds;
         public event System.Action OnPlayerDeatch ;
@@ -13,6 +14,7 @@ namespace Scenes.Tutorial13.Scripts
         // Start is called before the first frame update
         void Start()
         {
+            var sss = manager.GetComponent<FallingBlockManagerController>();
         }
 
         // Update is called once per frame

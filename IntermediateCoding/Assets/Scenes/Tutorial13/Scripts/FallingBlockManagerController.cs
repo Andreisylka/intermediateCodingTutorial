@@ -5,10 +5,9 @@ using UnityEngine;
 
 public class FallingBlockManagerController : MonoBehaviour
 {
-    
     public GameObject fallingBlock;
     private Vector2 ScreenSizeWorldUnits;
-    public float speed = 5;
+    public float playerSpeed = 5;
     public float fBRotationValueFactor = 5;
     public float fBScaleValueFactor = 1;
 
